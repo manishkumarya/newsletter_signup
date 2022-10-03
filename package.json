@@ -1,0 +1,18 @@
+{
+  "name": "mani",
+  "version": "1.0.0",
+  "description": "its an amazing world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "mani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
